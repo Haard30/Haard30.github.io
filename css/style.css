@@ -183,7 +183,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url("C:\Users\shah3\Desktop\GitHub\Haard30.github.io\img\intro-bg.jpg") no-repeat center top;
+	background: url(../img/intro-bg.jpg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
